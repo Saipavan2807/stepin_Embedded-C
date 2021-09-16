@@ -1,5 +1,5 @@
-#ifndef STEP_3_H
-#define STEP_3_H
+#ifndef ACTIVITY_3_H
+#define ACTIVITY_3_H
 
 
 #define PWM20PERCENT  // Output PWM for 20% duty cycle. 

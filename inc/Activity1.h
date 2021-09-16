@@ -1,5 +1,5 @@
-#ifndef STEP_1_H
-#define STEP_1_H
+#ifndef ACTIVITY_1_H
+#define ACTIVITY_1_H
 
 
 #define F_CPU 16000000UL 	// Clock Frequency of MCU is 16 MHz 

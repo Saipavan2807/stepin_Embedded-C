@@ -1,5 +1,5 @@
-#ifndef STEP_2_H
-#define STEP_2_H
+#ifndef ACTIVITY_2_H
+#define ACTIVITY_2_H
 
 
 #include <util/delay.h>
